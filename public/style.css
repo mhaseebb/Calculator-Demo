@@ -1,0 +1,24 @@
+.main{
+    border: 2px solid grey;
+    width: 172px;
+    
+}
+button{
+    width: 38px;
+    margin: 1px;
+    
+    
+}
+.wide{
+    width: 82px;
+    background-color: orange;
+    border: none;
+    
+}
+
+.mainCo{
+    height: 44px;
+    background-color: black;
+    color: white;
+    
+}
